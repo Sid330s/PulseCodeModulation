@@ -1,6 +1,3 @@
-![Test Image 1](img/0001.jpg)
-![Test Image 2](img/0002.jpg)
-![Test Image 3](img/0003.jpg)
 ![Test Image 4](img/0004.jpg)
 ![Test Image 5](img/0005.jpg)
 ![Test Image 6](img/0006.jpg)
@@ -13,9 +10,5 @@
 ![Test Image 13](img/0013.jpg)
 ![Test Image 14](img/0014.jpg)
 ![Test Image 15](img/0015.jpg)
-![Test Image 16](img/0016.jpg)
-![Test Image 17](img/0017.jpg)
-![Test Image 18](img/0018.jpg)
-![Test Image 19](img/0019.jpg)
 ![Test Image 20](img/0020.jpg)
 
